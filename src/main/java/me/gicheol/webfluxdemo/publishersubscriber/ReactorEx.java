@@ -1,4 +1,4 @@
-package me.gicheol.webfluxdemo.publisher;
+package me.gicheol.webfluxdemo.publishersubscriber;
 
 import reactor.core.publisher.Flux;
 
